@@ -1,0 +1,23 @@
+[
+  {
+    "full_name": "Luka Doncic",
+    "phone_number": "122-121-2324",
+    "email": "mvp@nba.com",
+    "tags": "Dallas Maverick",
+    "id": 1
+  },
+  {
+    "full_name": "Joel Embiid",
+    "phone_number": "232-232-3454",
+    "email": "troller@nba.com",
+    "tags": "Philadelphia 76er",
+    "id": 2
+  },
+  {
+    "full_name": "Giannis Antetokounmpo",
+    "phone_number": "242-655-3445",
+    "email": "longname@nba.com",
+    "tags": "Milwaukee Buck",
+    "id": 3
+  }
+]

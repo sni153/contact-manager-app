@@ -1,0 +1,66 @@
+h1, #nav_bar {
+  margin-left: 44px;
+}
+
+#form_container, #no_contacts_msg {
+  margin: 20px 0px 20px 45px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex: 1 0 500px;
+  box-sizing: border-box;
+  margin: 1rem .25em;
+  border: 1px solid black;
+}
+
+.submit {
+  margin-left: 10px;
+}
+
+#form_errors {
+  margin: 20px 0px 0px 45px;
+}
+
+.name {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.phone,
+.email,
+.tags {
+  margin-right: 10px;
+}
+
+.tag {
+  margin: 1px;
+}
+
+.edit,
+.delete {
+  margin: 10px;
+}
+
+#contacts {
+  margin-left: 40px;
+}
+
+dt {
+  margin-left: 10px;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
+dd {
+  margin: 0;
+  display: inline-block;
+}
+
+form {
+  border: 1px solid black;
+}
